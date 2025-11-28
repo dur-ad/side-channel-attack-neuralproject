@@ -1,0 +1,48 @@
+CNN+LSTM Model - Classification Report (Balanced Data)
+================================================================================
+
+                              precision    recall  f1-score   support
+
+                Caffeination     0.7544    0.9149    0.8269        47
+   Catch up on what happened     0.9375    0.9574    0.9474        47
+   Check the food provisions     0.8542    0.8723    0.8632        47
+               Clean a spill     0.9111    0.8723    0.8913        47
+             Clean the place     0.9792    1.0000    0.9895        47
+                    Clean up     0.8750    0.7447    0.8046        47
+                     Cooking     0.7500    0.7660    0.7579        47
+            Dry your clothes     0.8250    0.7021    0.7586        47
+                      Eating     0.7308    0.8085    0.7677        47
+      Food and accomodations     0.8043    0.7872    0.7957        47
+     Friends arrives at home     0.9730    0.7660    0.8571        47
+    Get and fold the laundry     0.8478    0.8298    0.8387        47
+                    Get home     0.8444    0.8085    0.8261        47
+Grab cream, sugar and snacks     0.9000    0.9574    0.9278        47
+             Health activity     0.9250    0.7872    0.8506        47
+            Morning exercise     0.9302    0.8511    0.8889        47
+         Perk up with coffee     0.7600    0.8085    0.7835        47
+           Play a board game     0.9216    1.0000    0.9592        47
+           Prepare breakfast     0.9375    0.9574    0.9474        47
+               Read and wait     1.0000    0.9362    0.9670        47
+                    Relaxing     0.8542    0.8723    0.8632        47
+             Room Decoration     0.8913    0.8723    0.8817        47
+       Set the table and eat     0.8600    0.9149    0.8866        47
+            Share some vides     0.6393    0.8298    0.7222        47
+               Straighten up     0.8605    0.7872    0.8222        47
+          Talk about the day     0.8864    0.8298    0.8571        47
+         Texting and Reading     0.9200    0.9787    0.9485        47
+               The home tour     0.7872    0.7872    0.7872        47
+                  Time to go     0.7619    0.6809    0.7191        47
+            Video game break     1.0000    1.0000    1.0000        47
+                   Waking up     0.8043    0.7872    0.7957        47
+            Wash the clothes     0.8723    0.8723    0.8723        47
+                    Watch TV     0.8704    1.0000    0.9307        47
+
+                    accuracy                         0.8588      1551
+                   macro avg     0.8627    0.8588    0.8587      1551
+                weighted avg     0.8627    0.8588    0.8587      1551
+
+
+Overall Metrics:
+  Test Accuracy:     0.8588
+  Test F1-Macro:     0.8587
+  Test F1-Weighted:  0.8587
